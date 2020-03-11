@@ -36,10 +36,10 @@ const Project = () => {
       <div className="info">
         <p>
           This idea stemmed from the Co-Founder of Studi where he was at a cafe
-          was trying to find somebody to study with. He told me about the idea
-          of an app where people can find somebody to study with and I wanted to
-          bring it to life. This is a just the FRONT END of the app where the
-          BACK END will be developed using ASP.NET and MySQL.
+          trying to find somebody to study with. He told me about the idea of an
+          app where people can find somebody to study with and I wanted to bring
+          it to life. This is a just the FRONT END of the app where the BACK END
+          will be developed using ASP.NET and MySQL.
         </p>
         <p>Current tech stack: React, Materials UI, Google Map API, Redux</p>
         <a href="https://epic-sammet-cb3122.netlify.com/">Click here to go!</a>
