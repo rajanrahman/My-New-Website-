@@ -25,7 +25,7 @@ function App() {
             </div>
             <div className="About">
               <p>
-                Welcome to my page! I'm a LA based developer. I went to UC
+                Welcome to my page! I'm an LA based developer. I went to UC
                 Irvine where I obtained my B.S. in Computer Science. After
                 graduation I interned at FreeFlows LLC and developed their web
                 application using React. Currently I am looking for new
