@@ -1,0 +1,47 @@
+.Project {
+}
+.Project h2 {
+  font-size: 1.8rem;
+  color: black;
+  font-family: "Baloo", cursive;
+}
+.Base-Img img {
+  width: 85vw;
+  height: auto;
+  border-radius: 15px;
+}
+
+.Project-Mobile-Img-ctn {
+  margin: 0 auto;
+  width: 85vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Project-Mobile-Img-ctn .iphone-img {
+  width: 17vw;
+  height: auto;
+  border-radius: 10px;
+}
+
+.Project-Mobile-Img-ctn .ipad-img {
+  width: 50.5vw;
+  height: auto;
+  border-radius: 10px;
+}
+
+.Project .info {
+  margin: 0 auto;
+  text-align: center;
+  width: 85vw;
+}
+
+.info p {
+  font-size: 1.7rem;
+}
+
+.Project a {
+  text-decoration: none;
+  color: #fd6585;
+}
