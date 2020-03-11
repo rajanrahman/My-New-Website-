@@ -51,7 +51,7 @@ function App() {
           <p>Cell: 8182887578</p>
           <hr />
           <p>
-            Asides from coding, I have strong interest in music where I use FL
+            Aside from coding, I have strong interest in music where I use FL
             Studio to make songs. Moreover I play basketball regularly on the
             weekends and Monday nights (We're looking for players!). Please
             don't hestitate to reach out to me, I always text/email back!
